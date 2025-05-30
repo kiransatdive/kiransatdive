@@ -9,7 +9,7 @@
 
 
 
-- 💬 Ask me about **Flutter Deveplement**
+- 💬 Ask me about **Web Deveplement**
 
 - 📫 How to reach me **kiransatdive0076@gmail.com**
 

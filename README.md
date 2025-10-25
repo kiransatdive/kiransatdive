@@ -23,7 +23,7 @@
 
 ### 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://leetcode.com/kiransatdive0076/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
@@ -36,7 +36,7 @@
 
 ### 🛠️ Languages & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
@@ -55,14 +55,28 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiransatdive&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kiransatdive&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiransatdive&" alt="GitHub Streak" />
 </p>
+
+---
+
+<h3 align="center">🎖️ Holopin Badges</h3>
+
+<p align="center">
+  <a href="https://holopin.io/@kiransatdive" target="_blank">
+    <img src="https://holopin.me/kiransatdive" alt="@kiransatdive Holopin Badges" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
+  </a>
+</p>
+
+---
+
+<h4 align="center">⭐ Don't forget to star my repositories if you like them!</h4>

@@ -61,19 +61,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kiransatdive&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiransatdive&" alt="GitHub Streak" />
-</p>
 
 ---
-
-<h3 align="center">🎖️ Holopin Badges</h3>
-
-<p align="center">
-  <a href="https://holopin.io/@kiransatdive" target="_blank">
-    <img src="https://holopin.me/kiransatdive" alt="@kiransatdive Holopin Badges" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
-  </a>
-</p>
 
 ---
 

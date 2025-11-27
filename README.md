@@ -2,8 +2,13 @@
 <h3 align="center">React Developer | FullStack Developer | Backend Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kiransatdive&label=Profile%20views&color=0e75b6&style=flat" alt="kiransatdive" />
+  <img 
+    src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/4c6af063065537.5aad14955f42a.gif" 
+    alt="kiransatdive"
+    width="300"
+  />
 </p>
+
 
 <p align="center">
  
@@ -28,6 +33,10 @@
   <a href="mailto:kiransatdive0076@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" height="30" width="40" />
   </a>
+  <a href="https://my-portfolio-oup3.vercel.app/" target="_blank">
+    <img src="https://cdn.dribbble.com/userupload/28117148/file/original-c0db2041822a946b9529b5ae1fdf08e8.gif" alt="Gmail" height="30" width="40" />
+  </a>
+  
 </p>
 
 ---

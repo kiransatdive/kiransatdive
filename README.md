@@ -5,7 +5,8 @@
   <img 
     src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/4c6af063065537.5aad14955f42a.gif" 
     alt="kiransatdive"
-    width="300"
+    width="700"
+    height="350"
   />
 </p>
 
